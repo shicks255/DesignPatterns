@@ -1,4 +1,4 @@
-package com.steven.hicks;
+package com.steven.hicks.BuilderPattern;
 
 public class Burger
 {
